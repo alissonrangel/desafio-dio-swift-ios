@@ -1,7 +1,8 @@
 
 # Repositório para o Desafio da Dio de Fundamentos de Swift e IOS
 
-## Criado pelo especialista: Robson Moreira
+## Desafio criado pelo especialista: Robson Moreira
+## Desafio resolvido por Alisson Rangel
 
 ### Desafio:
     - Criar um projeto no playground usando o Xcode;
